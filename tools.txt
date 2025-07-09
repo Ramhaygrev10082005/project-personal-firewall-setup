@@ -1,0 +1,11 @@
+ TOOLS USED 
+
+1. python3 
+
+2. scapy
+
+3. iptables
+
+4. JSON
+
+5. BASH/LINUX SHELL:
